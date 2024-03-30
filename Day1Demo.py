@@ -5,6 +5,13 @@ courses=[]
 # courses.extend(back)
 print(fornt,back,fornt+back,sep='\n')
 print(fornt*3)
+input=-==>num=3
+
+output--->[
+    [1],
+    [2*1,2*2],
+    [3*1,3*2,3*3]
+]
 """
 # name='ali'
 # print(name[0:])
